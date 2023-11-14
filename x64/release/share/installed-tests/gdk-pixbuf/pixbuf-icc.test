@@ -1,0 +1,3 @@
+[Test]
+Type=session
+Exec="C:/gtk-build/gtk/x64/release/libexec/installed-tests/gdk-pixbuf"\pixbuf-icc
